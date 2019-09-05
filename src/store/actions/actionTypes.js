@@ -1,0 +1,2 @@
+export const INITIATE_PRODUCTS = "INITIATE_PRODUCTS";
+export const TOGGLE_FAV = "TOGGLE_FAV";
